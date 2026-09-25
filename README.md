@@ -1,3 +1,5 @@
+# DATA SET Link: https://drive.google.com/drive/folders/11qsnUI1G-nChsqzBeY8oJl0aXYjHJHOl?usp=drive_link
+
 # ML Challenge 2026 Problem Statement
 
 ## Business Entity Resolution Challenge
