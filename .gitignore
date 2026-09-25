@@ -1,0 +1,55 @@
+
+# ==================================================
+# Large datasets (100 MB and above)
+# ==================================================
+
+# Ignore all files inside data/ by default
+data/*
+
+# Keep the data directory structure documented
+!data/.gitkeep
+!data/README.md
+
+# ==================================================
+# Python artifacts
+# ==================================================
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# ==================================================
+# Jupyter Notebook
+# ==================================================
+
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ==================================================
+# Machine learning outputs
+# ==================================================
+
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.hdf5
+*.onnx
+*.safetensors
+*.pkl
+*.pickle
+*.joblib
+
+# ==================================================
+# Logs and temporary files
+# ==================================================
+
+*.log
+*.tmp
+.DS_Store
+/data/
