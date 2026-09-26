@@ -1,4 +1,6 @@
-# DATA SET Link: https://drive.google.com/drive/folders/11qsnUI1G-nChsqzBeY8oJl0aXYjHJHOl?usp=drive_link
+## DATA SET Link: https://drive.google.com/drive/folders/11qsnUI1G-nChsqzBeY8oJl0aXYjHJHOl?usp=drive_link
+
+## Normalized SET Link : https://drive.google.com/drive/folders/1aJicAez4QW-xQzi3ta42cozKKHBDgVJ0?usp=sharing
 
 # ML Challenge 2026 Problem Statement
 
